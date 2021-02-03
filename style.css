@@ -1,0 +1,94 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.name-style{
+        color: darkorchid ;
+        font-size: 40px;
+        font-weight: bolder;
+}
+.link{
+    text-decoration: none;
+    background-color: rgb(177, 42, 245);
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.half-div{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin-left: 5%;
+}
+img{
+    width: 100%;
+}
+.first-sec::after{
+    content: '';
+    clear: both;
+    display: table;
+}
+.second-sec::after{
+    content: '';
+    clear: both;
+    display: table;
+}
+.headline{
+    text-align: center;
+    margin-top: 100px;
+}
+#latest1{
+    margin: 3%;
+    padding: 1%;
+
+}
+.latest{
+    width: 30%;
+    float: left;
+    padding: 1%;
+    margin-left: 1%;
+    float: left;
+}
+.work::after{
+     content: '';
+    clear: both;
+    display: table;
+}
+h3{
+    text-align: center;
+    margin-top: 50px;
+}
+h5{
+    color: gray;
+    text-align: center;
+}
+.last{
+    text-align: center;
+}
+#massage{
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 15px;
+}
+#gmail{
+    text-align: center;
+}
+.last1{
+   
+    justify-content: center;
+    align-items: center;
+    background-color: mediumorchid;
+    width: 55%;
+    
+   height: 100px;
+   text-align: center;
+   margin-left: 265px;
+   border-radius: 20px;
+}
+#vass{
+    margin-top: 100px;
+    text-align: center;
+    color: gray;
+}
